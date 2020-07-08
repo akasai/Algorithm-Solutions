@@ -8,3 +8,4 @@
 4. [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)
 5. [Funny String](https://www.hackerrank.com/challenges/funny-string)
 6. [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)
+7. [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)
