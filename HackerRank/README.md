@@ -7,10 +7,10 @@
     HackerRank Algorithm Solutions using JavaScript
 </p>
 
-![](https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Solutions-7-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank)
-![](https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript)
-![](https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js)
+![](https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github){: .align-center}
+![](https://img.shields.io/badge/Solutions-7-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank){: .align-center}
+![](https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript){: .align-center}
+![](https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js){: .align-center}
 
 # Algorithms
 
