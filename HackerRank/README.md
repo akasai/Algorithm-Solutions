@@ -9,7 +9,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
-    <img src="https://img.shields.io/badge/Solutions-7-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-8-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -26,3 +26,8 @@
 |5|[Funny String](https://www.hackerrank.com/challenges/funny-string)|[JavaScript](String/5.Funny_String.js) |Easy|
 |6|[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[JavaScript](String/6.The_Love_Letter_Mystery.js) |Easy|
 |7|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)|[JavaScript](String/7.Game_of_Thrones_I.js) |Easy|
+
+## Sorting
+| No | Problem         | Solution | Difficulty |
+|-- |:---------------:|:--------:|:----------:|
+|1|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[JavaScript](Sorting/1.Intro_to_Tutorial_Challenges.js) |Easy|
