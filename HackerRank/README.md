@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
-    <img src="https://img.shields.io/badge/Solutions-8-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <a href="https://github.com/akasai">
+      <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
+    </a>
+    <img src="https://img.shields.io/badge/Solutions-10-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -26,6 +28,8 @@
 |5|[Funny String](https://www.hackerrank.com/challenges/funny-string)|[JavaScript](String/5.Funny_String.js) |Easy|
 |6|[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[JavaScript](String/6.The_Love_Letter_Mystery.js) |Easy|
 |7|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)|[JavaScript](String/7.Game_of_Thrones_I.js) |Easy|
+|8|[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|[JavaScript](String/8.Gemstones.js) |Easy|
+|8|[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[JavaScript](String/9.Two_Strings.js) |Easy|
 
 ## Sorting
 | No | Problem         | Solution | Difficulty |
