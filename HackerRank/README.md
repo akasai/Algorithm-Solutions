@@ -11,12 +11,17 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-11-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-12-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
 
 # Algorithms
+
+## Implementation
+| No | Problem         | Solution | Difficulty |
+|:--:|:---------------:|:--------:|:----------:|
+|1|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|[JavaScript](Implementation/1.Electronics_shop.js) |Easy|
 
 ## Problem Solving
 | No | Problem         | Solution | Difficulty |
