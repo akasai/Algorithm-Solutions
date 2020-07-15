@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-13-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-21-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -23,6 +23,14 @@
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|[JavaScript](Implementation/1.Electronics_shop.js) |Easy|
 |2|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[JavaScript](Implementation/2.Lisa's_Workbook.js) |Easy|
+|3|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[JavaScript](Implementation/3.Equalize_the_Array.js) |Easy|
+|4|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[JavaScript](Implementation/4.Migratory_Birds.js) |Easy|
+|5|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[JavaScript](Implementation/5.Cut_the_sticks.js) |Easy|
+|6|[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[JavaScript](Implementation/6.Jumping_on_the_Clouds:Revisited.js) |Easy|
+|7|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|[JavaScript](Implementation/7.Find_Digits.js) |Easy|
+|8|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)|[JavaScript](Implementation/8.Sequence_Equation.js) |Easy|
+|9|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|[JavaScript](Implementation/9.Beautiful_Days_at_the_Movies.js) |Easy|
+|10|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[JavaScript](Implementation/10.Angry_Professor.js) |Easy|
 
 ## Problem Solving
 | No | Problem         | Solution | Difficulty |
