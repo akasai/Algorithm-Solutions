@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-21-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-25-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -31,6 +31,10 @@
 |8|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)|[JavaScript](Implementation/8.Sequence_Equation.js) |Easy|
 |9|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|[JavaScript](Implementation/9.Beautiful_Days_at_the_Movies.js) |Easy|
 |10|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[JavaScript](Implementation/10.Angry_Professor.js) |Easy|
+|11|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[JavaScript](Implementation/11.Beautiful_Triplets.js) |Easy|
+|12|[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)|[JavaScript](Implementation/12.Service_Lane.js) |Easy|
+|13|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|[JavaScript](Implementation/13.Utopian_Tree.js) |Easy|
+|14|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[JavaScript](Implementation/14.Counting_Valleys.js) |Easy|
 
 ## Problem Solving
 | No | Problem         | Solution | Difficulty |
