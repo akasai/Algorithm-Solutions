@@ -35,6 +35,7 @@
 |12|[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)|[JavaScript](Implementation/12.Service_Lane.js) |Easy|
 |13|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|[JavaScript](Implementation/13.Utopian_Tree.js) |Easy|
 |14|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[JavaScript](Implementation/14.Counting_Valleys.js) |Easy|
+|15|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](Implementation/15.Chocolate_Feast.js) |Easy|
 
 ## Problem Solving
 | No | Problem         | Solution | Difficulty |
