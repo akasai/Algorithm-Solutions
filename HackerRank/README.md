@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-25-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-28-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -37,6 +37,7 @@
 |14|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[JavaScript](Implementation/14.Counting_Valleys.js) |Easy|
 |15|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](Implementation/15.Chocolate_Feast.js) |Easy|
 |16|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[JavaScript](Implementation/16.Manasa_and_Stones.js) |Easy|
+|17|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|[JavaScript](Implementation/17.Cavity_Map.js) |Easy|
 
 ## Problem Solving
 | No | Problem         | Solution | Difficulty |
