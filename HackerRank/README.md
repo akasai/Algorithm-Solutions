@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-28-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-29-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -38,6 +38,7 @@
 |15|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](Implementation/15.Chocolate_Feast.js) |Easy|
 |16|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[JavaScript](Implementation/16.Manasa_and_Stones.js) |Easy|
 |17|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|[JavaScript](Implementation/17.Cavity_Map.js) |Easy|
+|18|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|[JavaScript](Implementation/18.Picking_Numbers.js) |Easy|
 
 ## Problem Solving
 | No | Problem         | Solution | Difficulty |
@@ -55,5 +56,5 @@
 
 ## Sorting
 | No | Problem         | Solution | Difficulty |
-|-- |:---------------:|:--------:|:----------:|
+|:--:|:---------------:|:--------:|:----------:|
 |1|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[JavaScript](Sorting/1.Intro_to_Tutorial_Challenges.js) |Easy|
