@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-29-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-30-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -39,6 +39,7 @@
 |16|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[JavaScript](Implementation/16.Manasa_and_Stones.js) |Easy|
 |17|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|[JavaScript](Implementation/17.Cavity_Map.js) |Easy|
 |18|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|[JavaScript](Implementation/18.Picking_Numbers.js) |Easy|
+|19|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[JavaScript](Implementation/19.Day_of_the_Programmer.js) |Easy|
 
 ## Problem Solving
 | No | Problem         | Solution | Difficulty |
