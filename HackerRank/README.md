@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-30-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-31-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -59,3 +59,4 @@
 | No | Problem         | Solution | Difficulty |
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[JavaScript](Sorting/1.Intro_to_Tutorial_Challenges.js) |Easy|
+|2|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|[JavaScript](Sorting/2.Insertion_Sort_1.js) |Easy|
