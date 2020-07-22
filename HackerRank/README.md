@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-31-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-34-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -60,3 +60,6 @@
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[JavaScript](Sorting/1.Intro_to_Tutorial_Challenges.js) |Easy|
 |2|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|[JavaScript](Sorting/2.Insertion_Sort_1.js) |Easy|
+|3|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|[JavaScript](Sorting/3.Insertion_Sort_2.js) |Easy|
+|4|[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|[JavaScript](Sorting/4.Counting_Sort_1.js) |Easy|
+|5|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)|[JavaScript](Sorting/5.Counting_Sort_2.js) |Easy|
