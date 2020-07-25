@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-36-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-37-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -41,7 +41,7 @@
 |18|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|[JavaScript](Implementation/18.Picking_Numbers.js) |Easy|
 |19|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[JavaScript](Implementation/19.Day_of_the_Programmer.js) |Easy|
 
-## Problem Solving
+## String
 | No | Problem         | Solution | Difficulty |
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)|[JavaScript](String/1.Mars_Exploration.js) |Easy|
@@ -53,7 +53,8 @@
 |7|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)|[JavaScript](String/7.Game_of_Thrones_I.js) |Easy|
 |8|[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|[JavaScript](String/8.Gemstones.js) |Easy|
 |9|[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[JavaScript](String/9.Two_Strings.js) |Easy|
-|10|[Beautiful Binary String/](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)|[JavaScript](String/10.Beautiful_Binary_String.js) |Easy|
+|10|[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)|[JavaScript](String/10.Beautiful_Binary_String.js) |Easy|
+|11|[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[JavaScript](String/11.Caesar_Cipher.js) |Easy|
 
 ## Sorting
 | No | Problem         | Solution | Difficulty |
