@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-38-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-42-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -67,3 +67,17 @@
 |5|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)|[JavaScript](Sorting/5.Counting_Sort_2.js) |Easy|
 |6|[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|[JavaScript](Sorting/6.Running_Time_of_Algorithms.js) |Easy|
 |7|[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|[JavaScript](Sorting/7.Find_the_Median.js) |Easy|
+|8|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|[JavaScript](Sorting/8.Quicksort_1_Partition.js) |Easy|
+
+## Data Structure - Arrays
+| No | Problem         | Solution | Difficulty |
+|:--:|:---------------:|:--------:|:----------:|
+|1|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[JavaScript](Arrays/1.Arrays_ds.js) |Easy|
+|2|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|[JavaScript](Arrays/2.Sparse_Arrays.js) |Medium|
+
+## Data Structure - Stacks
+| No | Problem         | Solution | Difficulty |
+|:--:|:---------------:|:--------:|:----------:|
+|1|[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|[JavaScript](Stacks/1.Maximum_Element.js) |Easy|
+
+
