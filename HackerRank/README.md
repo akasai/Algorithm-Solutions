@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-44-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-45-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -69,13 +69,18 @@
 |7|[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|[JavaScript](Sorting/7.Find_the_Median.js) |Easy|
 |8|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|[JavaScript](Sorting/8.Quicksort_1_Partition.js) |Easy|
 
+## Search
+| No | Problem         | Solution | Difficulty |
+|:--:|:---------------:|:--------:|:----------:|
+|1|[Missing Number](https://www.hackerrank.com/challenges/missing-number/problem)|[JavaScript](Search/1.Missing_Number.js) |Easy|
+
 ## Data Structure - Arrays
 | No | Problem         | Solution | Difficulty |
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[JavaScript](Arrays/1.Arrays_ds.js) |Easy|
 |2|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|[JavaScript](Arrays/2.Sparse_Arrays.js) |Medium|
-|3|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[JavaScript](Arrays/2.Sparse_Arrays.js) |Medium|
-|4|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)|[JavaScript](Arrays/4.2D_Array_DS.js) |Medium|
+|3|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[JavaScript](Arrays/2.Sparse_Arrays.js) |Easy|
+|4|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)|[JavaScript](Arrays/4.2D_Array_DS.js) |Easy|
 
 ## Data Structure - Stacks
 | No | Problem         | Solution | Difficulty |
