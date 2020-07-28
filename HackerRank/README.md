@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-42-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-44-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -74,6 +74,8 @@
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[JavaScript](Arrays/1.Arrays_ds.js) |Easy|
 |2|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|[JavaScript](Arrays/2.Sparse_Arrays.js) |Medium|
+|3|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[JavaScript](Arrays/2.Sparse_Arrays.js) |Medium|
+|4|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)|[JavaScript](Arrays/4.2D_Array_DS.js) |Medium|
 
 ## Data Structure - Stacks
 | No | Problem         | Solution | Difficulty |
