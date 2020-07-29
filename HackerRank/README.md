@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-45-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-46-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -87,4 +87,8 @@
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|[JavaScript](Stacks/1.Maximum_Element.js) |Easy|
 
+## Data Structure - Linked List
+| No | Problem         | Solution | Difficulty |
+|:--:|:---------------:|:--------:|:----------:|
+|1|[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)|[JavaScript](Linked_List/1.Print_the_Elements_of_a_Linked_List.js) |Easy|
 
