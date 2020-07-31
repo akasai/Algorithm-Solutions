@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-46-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-47-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -70,9 +70,10 @@
 |8|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|[JavaScript](Sorting/8.Quicksort_1_Partition.js) |Easy|
 
 ## Search
-| No | Problem         | Solution | Difficulty |
-|:--:|:---------------:|:--------:|:----------:|
+| No | Problem         | Solution | Difficulty |TODO|
+|:--:|:---------------:|:--------:|:----------:|:-:|
 |1|[Missing Number](https://www.hackerrank.com/challenges/missing-number/problem)|[JavaScript](Search/1.Missing_Number.js) |Easy|
+|2|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|apply HASH_TABLE|
 
 ## Data Structure - Arrays
 | No | Problem         | Solution | Difficulty |
