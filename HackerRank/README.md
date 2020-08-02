@@ -74,6 +74,8 @@
 |:--:|:---------------:|:--------:|:----------:|:-:|
 |1|[Missing Number](https://www.hackerrank.com/challenges/missing-number/problem)|[JavaScript](Search/1.Missing_Number.js) |Easy|
 |2|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|apply HASH_TABLE|
+|3|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|TC-7 Error|
+
 
 ## Data Structure - Arrays
 | No | Problem         | Solution | Difficulty |
