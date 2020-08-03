@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-48-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-51-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -76,7 +76,6 @@
 |2|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|apply HASH_TABLE|
 |3|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|TC-7 Error|
 
-
 ## Data Structure - Arrays
 | No | Problem         | Solution | Difficulty |
 |:--:|:---------------:|:--------:|:----------:|
@@ -95,4 +94,5 @@
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)|[JavaScript](Linked_List/1.Print_the_Elements_of_a_Linked_List.js) |Easy|
 |2|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)|[JavaScript](Linked_List/2.Insert_a_node_at_the_head_of_a_linked_list.js) |Easy|
-
+|3|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)|[JavaScript](Linked_List/3.Insert_a_node_at_a_specific_position_in_a_linked_list.js) |Easy|
+|4|[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)|[JavaScript](Linked_List/4.Print_in_Reverse.js) |Easy|
