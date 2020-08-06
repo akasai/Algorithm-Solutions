@@ -107,3 +107,9 @@
 |3|[Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)|[JavaScript](10_Days_of_Javascript/3.Day_1_Arithmetic_Operators.js) |Easy|
 |4|[Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem)|[JavaScript](10_Days_of_Javascript/4.Day_1_Functions.js) |Easy|
 |5|[Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)|[JavaScript](10_Days_of_Javascript/5.Day_1_Let_and_Const.js) |Easy|
+|6|[Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)|[JavaScript](10_Days_of_Javascript/6.Day_2_Conditional_Statements_If_Else.js) |Easy|
+|7|[Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)|[JavaScript](10_Days_of_Javascript/7.Day_2_Conditional_Statements_Switch.js) |Easy|
+|8|[Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem)|[JavaScript](10_Days_of_Javascript/8.Day_2_Loops.js) |Easy|
+|9|[Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)|[JavaScript](10_Days_of_Javascript/9.Day_3_Arrays.js) |Easy|
+|10|[Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|[JavaScript](10_Days_of_Javascript/10.Day_3_Try_Catch_and_Finally.js) |Easy|
+|11|[Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|[JavaScript](10_Days_of_Javascript/11.Day_3_Throw.js) |Easy|
