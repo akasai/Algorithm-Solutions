@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-52-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-58-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -42,6 +42,7 @@
 |19|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[JavaScript](Implementation/19.Day_of_the_Programmer.js) |Easy|
 |20|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[JavaScript](Implementation/20.Halloween_Sale.js) |Easy|
 |21|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[JavaScript](Implementation/21.Between_Two_Sets.js) |Easy|TC|
+|22|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[JavaScript](Implementation/22.Save_the_Prisoner.js) |Easy|
 
 ## String
 | No | Problem         | Solution | Difficulty |
@@ -97,3 +98,12 @@
 |2|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)|[JavaScript](Linked_List/2.Insert_a_node_at_the_head_of_a_linked_list.js) |Easy|
 |3|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)|[JavaScript](Linked_List/3.Insert_a_node_at_a_specific_position_in_a_linked_list.js) |Easy|
 |4|[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)|[JavaScript](Linked_List/4.Print_in_Reverse.js) |Easy|
+
+# 10 Days of Javascript
+| No | Problem         | Solution | Difficulty |
+|:--:|:---------------:|:--------:|:----------:|
+|1|[Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)|[JavaScript](10_Days_of_Javascript/1.Day_0_Hello_Wolrd.js) |Easy|
+|2|[Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)|[JavaScript](10_Days_of_Javascript/2.Day_0_Data_Types.js) |Easy|
+|3|[Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)|[JavaScript](10_Days_of_Javascript/3.Day_1_Arithmetic_Operators.js) |Easy|
+|4|[Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem)|[JavaScript](10_Days_of_Javascript/4.Day_1_Functions.js) |Easy|
+|5|[Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)|[JavaScript](10_Days_of_Javascript/5.Day_1_Let_and_Const.js) |Easy|
