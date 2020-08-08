@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-58-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-74-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -113,3 +113,14 @@
 |9|[Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)|[JavaScript](10_Days_of_Javascript/9.Day_3_Arrays.js) |Easy|
 |10|[Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|[JavaScript](10_Days_of_Javascript/10.Day_3_Try_Catch_and_Finally.js) |Easy|
 |11|[Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|[JavaScript](10_Days_of_Javascript/11.Day_3_Throw.js) |Easy|
+|12|[Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|[JavaScript](10_Days_of_Javascript/12.Day_4_Create_a_Rectangle_Object.js) |Easy|
+|13|[Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)|[JavaScript](10_Days_of_Javascript/13.Day_4_Count_Objects.js) |Easy|
+|14|[Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem)|[JavaScript](10_Days_of_Javascript/14.Day_4_Classes.js) |Easy|
+|15|[Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|[JavaScript](10_Days_of_Javascript/15.Day_5_Inheritance.js) |Easy|
+|16|[Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|[JavaScript](10_Days_of_Javascript/16.Day_5_Template_Literals.js) |Easy|
+|17|[Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|[JavaScript](10_Days_of_Javascript/17.Day_5_Arrow_Functions.js) |Easy|
+|18|[Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)|[JavaScript](10_Days_of_Javascript/18.Day_6_Bitwise_Operators.js) |Easy|
+|19|[Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)|[JavaScript](10_Days_of_Javascript/19.Day_6_JavaScript_Dates.js) |Easy|
+|20|[Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)|[JavaScript](10_Days_of_Javascript/20.Day_7_Regular_Expressions_I.js) |Easy|
+|21|[Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)|[JavaScript](10_Days_of_Javascript/21.Day_7_Regular_Expressions_II.js) |Easy|
+|22|[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|[JavaScript](10_Days_of_Javascript/22.Day_7_Regular_Expressions_III.js) |Easy|
