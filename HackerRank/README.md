@@ -124,3 +124,6 @@
 |20|[Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)|[JavaScript](10_Days_of_Javascript/20.Day_7_Regular_Expressions_I.js) |Easy|
 |21|[Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)|[JavaScript](10_Days_of_Javascript/21.Day_7_Regular_Expressions_II.js) |Easy|
 |22|[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|[JavaScript](10_Days_of_Javascript/22.Day_7_Regular_Expressions_III.js) |Easy|
+|23|[Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button/problem)|[JavaScript](10_Days_of_Javascript/23.Day_8_Create_a_Button.js) |Easy|
+|24|[Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container/problem)|[JavaScript](10_Days_of_Javascript/24.Day_8_Buttons_Container.js) |Easy|
+|25|[Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator/problem)|[JavaScript](10_Days_of_Javascript/25.Day_9_Binary_Calculator.js) |Easy|
