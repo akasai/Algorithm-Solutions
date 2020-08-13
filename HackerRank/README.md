@@ -43,7 +43,7 @@
 |20|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[JavaScript](Implementation/20.Halloween_Sale.js) |Easy|
 |21|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[JavaScript](Implementation/21.Between_Two_Sets.js) |Easy|TC|
 |22|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[JavaScript](Implementation/22.Save_the_Prisoner.js) |Easy|
-|23|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[JavaScript](Implementation/23.Repeated_String.js) |Easy|
+|23|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[JavaScript](Implementation/23.Repeated_String.jsg) |Easy|
 
 ## String
 | No | Problem         | Solution | Difficulty |
@@ -130,3 +130,9 @@
 |23|[Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button/problem)|[JavaScript](10_Days_of_Javascript/23.Day_8_Create_a_Button.js) |Easy|
 |24|[Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container/problem)|[JavaScript](10_Days_of_Javascript/24.Day_8_Buttons_Container.js) |Easy|
 |25|[Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator/problem)|[JavaScript](10_Days_of_Javascript/25.Day_9_Binary_Calculator.js) |Easy|
+
+# Interview Preparation Kit
+| No | Problem         | Solution | Difficulty |
+|:--:|:---------------:|:--------:|:----------:|
+|1|[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|[JavaScript](Interview_Preparation_Kit/1.Sorting:Bubble_Sort.js) |Easy|
+

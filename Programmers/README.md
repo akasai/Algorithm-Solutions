@@ -24,6 +24,8 @@
 |1|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[JavaScript](연습문제/1.짝수와_홀수.js) |Easy|
 |2|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[JavaScript](연습문제/2.평균_구하기.js) |Easy|
 |3|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[JavaScript](연습문제/3.제일_작은_수_제거하기.js) |Easy|
+|4|[자릿수 더하기ㅣ](https://programmers.co.kr/learn/courses/30/lessons/12931)|[JavaScript](연습문제/4.자릿수_더하기.js) |Easy|
+|5|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[JavaScript](연습문제/5.같은_숫자는_싫어.js) |Easy|
 
 ## 스택/큐
 | No | Problem         | Solution | Difficulty | TODO |
