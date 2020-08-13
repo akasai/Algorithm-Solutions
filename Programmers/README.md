@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-3-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
+    <img src="https://img.shields.io/badge/Solutions-4-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>

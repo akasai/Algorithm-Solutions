@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-74-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-76-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -43,6 +43,7 @@
 |20|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[JavaScript](Implementation/20.Halloween_Sale.js) |Easy|
 |21|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[JavaScript](Implementation/21.Between_Two_Sets.js) |Easy|TC|
 |22|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[JavaScript](Implementation/22.Save_the_Prisoner.js) |Easy|
+|23|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[JavaScript](Implementation/23.Repeated_String.js) |Easy|
 
 ## String
 | No | Problem         | Solution | Difficulty |
@@ -99,6 +100,7 @@
 |2|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)|[JavaScript](Linked_List/2.Insert_a_node_at_the_head_of_a_linked_list.js) |Easy|
 |3|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)|[JavaScript](Linked_List/3.Insert_a_node_at_a_specific_position_in_a_linked_list.js) |Easy|
 |4|[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)|[JavaScript](Linked_List/4.Print_in_Reverse.js) |Easy|
+|5|[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)|[JavaScript](Linked_List/5.Delete_a_Node.js) |Easy|
 
 # 10 Days of Javascript
 | No | Problem         | Solution | Difficulty |
