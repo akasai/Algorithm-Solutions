@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-76-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-79-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -43,7 +43,9 @@
 |20|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[JavaScript](Implementation/20.Halloween_Sale.js) |Easy|
 |21|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[JavaScript](Implementation/21.Between_Two_Sets.js) |Easy|TC|
 |22|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[JavaScript](Implementation/22.Save_the_Prisoner.js) |Easy|
-|23|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[JavaScript](Implementation/23.Repeated_String.jsg) |Easy|
+|23|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[JavaScript](Implementation/23.Repeated_String.js) |Easy|
+|24|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|[JavaScript](Implementation/24.Circular_Array_Rotation.js) |Easy|
+|25|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[JavaScript](Implementation/25.Taum_and_B'day.js) |Easy|
 
 ## String
 | No | Problem         | Solution | Difficulty |
