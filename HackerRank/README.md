@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-80-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-81-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -47,6 +47,7 @@
 |24|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|[JavaScript](Implementation/24.Circular_Array_Rotation.js) |Easy|
 |25|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[JavaScript](Implementation/25.Taum_and_B'day.js) |Easy|
 |26|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[JavaScript](Implementation/26.Kangaroo.js) |Easy|
+|27|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[JavaScript](Implementation/27.Library_Fine.js) |Easy|
 
 ## String
 | No | Problem         | Solution | Difficulty |
