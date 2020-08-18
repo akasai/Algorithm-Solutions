@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-9-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
+    <img src="https://img.shields.io/badge/Solutions-11-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -29,6 +29,8 @@
 |6|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[JavaScript](연습문제/6.두_정수_사이의_합.js) |Easy|
 |7|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[JavaScript](연습문제/7.핸드폰_번호_가리기.js) |Easy|
 |8|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[JavaScript](연습문제/8.직사각형_별찍기.js) |Easy|
+|9|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[JavaScript](연습문제/9.x만큼_간격이_있는_n개의_숫자.js) |Easy|
+|10|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[JavaScript](연습문제/10.이상한_문자_만들기.js) |Easy|
 
 ## 스택/큐
 | No | Problem         | Solution | Difficulty | TODO |

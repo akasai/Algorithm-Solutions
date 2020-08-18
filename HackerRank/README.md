@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-81-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-82-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -63,6 +63,7 @@
 |9|[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[JavaScript](String/9.Two_Strings.js) |Easy|
 |10|[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)|[JavaScript](String/10.Beautiful_Binary_String.js) |Easy|
 |11|[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[JavaScript](String/11.Caesar_Cipher.js) |Easy|
+|12|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)|[JavaScript](String/12.Making_Anagrams.js) |Easy|
 
 ## Sorting
 | No | Problem         | Solution | Difficulty |
