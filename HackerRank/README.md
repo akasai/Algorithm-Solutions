@@ -106,6 +106,7 @@
 |3|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)|[JavaScript](Linked_List/3.Insert_a_node_at_a_specific_position_in_a_linked_list.js) |Easy|
 |4|[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)|[JavaScript](Linked_List/4.Print_in_Reverse.js) |Easy|
 |5|[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)|[JavaScript](Linked_List/5.Delete_a_Node.js) |Easy|
+|6|[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)|[JavaScript](Linked_List/6.Reverse_a_Linked_lsit.js) |Easy|
 
 # 10 Days of Javascript
 | No | Problem         | Solution | Difficulty |
