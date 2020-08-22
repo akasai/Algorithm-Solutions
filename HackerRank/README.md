@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-82-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-85-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -48,6 +48,7 @@
 |25|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[JavaScript](Implementation/25.Taum_and_B'day.js) |Easy|
 |26|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[JavaScript](Implementation/26.Kangaroo.js) |Easy|
 |27|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[JavaScript](Implementation/27.Library_Fine.js) |Easy|
+|28|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[JavaScript](Implementation/28.Minimum_Distances.js) |Easy|
 
 ## String
 | No | Problem         | Solution | Difficulty |
@@ -64,6 +65,7 @@
 |10|[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)|[JavaScript](String/10.Beautiful_Binary_String.js) |Easy|
 |11|[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[JavaScript](String/11.Caesar_Cipher.js) |Easy|
 |12|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)|[JavaScript](String/12.Making_Anagrams.js) |Easy|
+|13|[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|[JavaScript](String/13.Separate_the_Numbers.js) |Easy|
 
 ## Sorting
 | No | Problem         | Solution | Difficulty |
@@ -83,6 +85,11 @@
 |1|[Missing Number](https://www.hackerrank.com/challenges/missing-number/problem)|[JavaScript](Search/1.Missing_Number.js) |Easy|
 |2|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|apply HASH_TABLE|
 |3|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|TC-7 Error|
+
+## Greedy 
+| No | Problem         | Solution | Difficulty |TODO|
+|:--:|:---------------:|:--------:|:----------:|:-:|
+|1|[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[JavaScript](Greedy/1.Marc's_Cakewalk.js) |Easy|
 
 ## Data Structure - Arrays
 | No | Problem         | Solution | Difficulty |
