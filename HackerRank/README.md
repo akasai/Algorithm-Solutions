@@ -99,6 +99,7 @@
 |3|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[JavaScript](Arrays/2.Sparse_Arrays.js) |Easy|
 |4|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)|[JavaScript](Arrays/4.2D_Array_DS.js) |Easy|
 |5|[Dynamic Arrsy](https://www.hackerrank.com/challenges/dynamic-array/problem)|[JavaScript](Arrays/5.Dynamic_Array.js) |Easy|
+|6|[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)|[JavaScript](Arrays/6.Arrays_Left_Rotation.js) |Easy|
 
 ## Data Structure - Stacks
 | No | Problem         | Solution | Difficulty |
