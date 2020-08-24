@@ -149,4 +149,5 @@
 | No | Problem         | Solution | Difficulty |
 |:--:|:---------------:|:--------:|:----------:|
 |1|[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|[JavaScript](Interview_Preparation_Kit/1.Sorting:Bubble_Sort.js) |Easy|
+|2|[Arrays: Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)|[JavaScript](Interview_Preparation_Kit/2.Arrays:Minimum_Swaps2.js) |Medium|
 
