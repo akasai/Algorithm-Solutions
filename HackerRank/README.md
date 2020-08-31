@@ -49,6 +49,7 @@
 |26|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[JavaScript](Implementation/26.Kangaroo.js) |Easy|
 |27|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[JavaScript](Implementation/27.Library_Fine.js) |Easy|
 |28|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[JavaScript](Implementation/28.Minimum_Distances.js) |Easy|
+|29|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|[JavaScript](Implementation/29.Encryption.js) |Medium|
 
 ## String
 | No | Problem         | Solution | Difficulty |
@@ -78,6 +79,7 @@
 |6|[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|[JavaScript](Sorting/6.Running_Time_of_Algorithms.js) |Easy|
 |7|[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|[JavaScript](Sorting/7.Find_the_Median.js) |Easy|
 |8|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|[JavaScript](Sorting/8.Quicksort_1_Partition.js) |Easy|
+|9|[Closest Number](https://www.hackerrank.com/challenges/closest-numbers/problem)|[JavaScript](Sorting/9.Closest_Numbers.js) |Easy|
 
 ## Search
 | No | Problem         | Solution | Difficulty |TODO|

@@ -2,7 +2,7 @@
 
 ## Queue
 
-* FIFO(First In First Out)구조의 저장형식
+* FIFO(First In First Out) 구조의 저장형식
 
 * Queue의 데이터를 꺼내는 앞쪽을 `front`, 데이터를 넣는 뒤쪽을 `rear`
 
