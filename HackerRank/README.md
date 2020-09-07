@@ -50,6 +50,8 @@
 |27|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[JavaScript](Implementation/27.Library_Fine.js) |Easy|
 |28|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[JavaScript](Implementation/28.Minimum_Distances.js) |Easy|
 |29|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|[JavaScript](Implementation/29.Encryption.js) |Medium|
+|30|[Jumping on the Cloud](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[JavaScript](Implementation/30.Jumping_on_the_Clouds.js) |Easy|
+|31|[Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem)|[JavaScript](Implementation/31.Larry's_Array.js) |Medium|
 
 ## String
 | No | Problem         | Solution | Difficulty |
@@ -86,7 +88,8 @@
 |:--:|:---------------:|:--------:|:----------:|:-:|
 |1|[Missing Number](https://www.hackerrank.com/challenges/missing-number/problem)|[JavaScript](Search/1.Missing_Number.js) |Easy|
 |2|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|apply HASH_TABLE|
-|3|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[JavaScript](Search/2.Ice_Cream_Parlor.js) |Easy|TC-7 Error|
+|3|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[JavaScript](Search/3.Sherlock_and_Array.js) |Easy|TC-7 Error|
+|4|[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|[JavaScript](Search/4.Pairs.js) |Medium||
 
 ## Greedy 
 | No | Problem         | Solution | Difficulty |TODO|
