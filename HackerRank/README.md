@@ -52,6 +52,8 @@
 |29|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|[JavaScript](Implementation/29.Encryption.js) |Medium|
 |30|[Jumping on the Cloud](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[JavaScript](Implementation/30.Jumping_on_the_Clouds.js) |Easy|
 |31|[Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem)|[JavaScript](Implementation/31.Larry's_Array.js) |Medium|
+|32|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)|[JavaScript](Implementation/32.The_Grid_Search.js) |Medium|
+|33|[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|[JavaScript](Implementation/33.The_Bomberman_Game.js) |Medium|
 
 ## String
 | No | Problem         | Solution | Difficulty |
