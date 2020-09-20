@@ -11,7 +11,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-85-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
+    <img src="https://img.shields.io/badge/Solutions-102-brightgreen.svg?longCache=true&style=for-the-badge&logo=HackerRank">
     <img src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge&logo=Javascript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -54,6 +54,8 @@
 |31|[Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem)|[JavaScript](Implementation/31.Larry's_Array.js) |Medium|
 |32|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)|[JavaScript](Implementation/32.The_Grid_Search.js) |Medium|
 |33|[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|[JavaScript](Implementation/33.The_Bomberman_Game.js) |Medium|
+|34|[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|[JavaScript](Implementation/34.Modified_Kaprekar_Numbers.js) |Easy|
+|35|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[JavaScript](Implementation/35.Extra_Long_Factorials.js) |Medium|
 
 ## String
 | No | Problem         | Solution | Difficulty |
