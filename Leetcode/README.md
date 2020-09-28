@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Leetcode" src="https://raw.githubusercontent.com/akasai/Algorithm-Solutions/master/Leetcode/leetcode-logo.png">
+    <img alt="Leetcode" height="128" src="https://raw.githubusercontent.com/akasai/Algorithm-Solutions/master/Leetcode/leetcode-logo.png">
 </p>
 <p align="center">
     Leetcode Algorithm Solutions using JavaScript
