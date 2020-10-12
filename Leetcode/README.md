@@ -9,7 +9,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-20-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
+    <img src="https://img.shields.io/badge/Solutions-25-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
     <img src="https://img.shields.io/badge/Languages-Typescript-informational.svg?longCache=true&style=for-the-badge&logo=Typescript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -40,4 +40,9 @@
 |18|[String Compression](https://leetcode.com/problems/string-compression)|[Typescript](Solution/18.String_Compression.ts) |Medium|
 |19|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)|[Typescript](Solution/19.Create_Target_Array_in_the_Given_Order.ts) |Easy|
 |20|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)|[Typescript](Solution/20.Decompress_Run-Length_Encoded_List.ts) |Easy|
+|21|[Destination City](https://leetcode.com/problems/destination-city)|[Typescript](Solution/21.Destination_City.ts) |Easy|
+|22|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)|[Typescript](Solution/22.Decrypt_String_from_Alphabet_to_Integer_Mapping.ts) |Easy|
+|23|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Typescript](Solution/23.Merge_Two_Binary_Trees.ts) |Easy|
+|24|[Reverse String](https://leetcode.com/problems/reverse-string)|[Typescript](Solution/24.Reverse_String.ts) |Easy|
+|25|[Two Sum](https://leetcode.com/problems/two-sum)|[Typescript](Solution/25.Two_Sum.ts) |Easy|
 
