@@ -45,5 +45,6 @@
 |23|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Typescript](Solution/23.Merge_Two_Binary_Trees.ts) |Easy|
 |24|[Reverse String](https://leetcode.com/problems/reverse-string)|[Typescript](Solution/24.Reverse_String.ts) |Easy|
 |25|[Two Sum](https://leetcode.com/problems/two-sum)|[Typescript](Solution/25.Two_Sum.ts) |Easy|
-|26|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Typescript](Solution/26.Add_Two_Numbers.ts) |Easy|
+|26|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Typescript](Solution/26.Add_Two_Numbers.ts) |Medium|
+|27|[Count and Say](https://leetcode.com/problems/count-and-say)|[Typescript](Solution/27.Count_and_Say.ts) |Easy|
 
