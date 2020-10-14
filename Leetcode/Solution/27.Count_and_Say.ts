@@ -22,7 +22,7 @@ function countAndSay(n: number): string {
 function countAndSay2(n: number): string {
   if (n === 1) return '1'
 
-  const num = countAndSay(n - 1)
+  const num = countAndSay2(n - 1)
   let str = ''
   for (let i = 0, count = 1; i < num.length; i++) {
     if (num[i] !== num[i + 1]) {

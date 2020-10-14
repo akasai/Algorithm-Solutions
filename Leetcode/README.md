@@ -9,7 +9,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-25-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
+    <img src="https://img.shields.io/badge/Solutions-27-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
     <img src="https://img.shields.io/badge/Languages-Typescript-informational.svg?longCache=true&style=for-the-badge&logo=Typescript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -47,4 +47,5 @@
 |25|[Two Sum](https://leetcode.com/problems/two-sum)|[Typescript](Solution/25.Two_Sum.ts) |Easy|
 |26|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Typescript](Solution/26.Add_Two_Numbers.ts) |Medium|
 |27|[Count and Say](https://leetcode.com/problems/count-and-say)|[Typescript](Solution/27.Count_and_Say.ts) |Easy|
+|28|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Typescript](Solution/28.Merge_Two_Sorted_Lists.ts) |Easy|
 
