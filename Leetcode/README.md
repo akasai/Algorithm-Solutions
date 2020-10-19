@@ -48,4 +48,6 @@
 |26|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Typescript](Solution/26.Add_Two_Numbers.ts) |Medium|
 |27|[Count and Say](https://leetcode.com/problems/count-and-say)|[Typescript](Solution/27.Count_and_Say.ts) |Easy|
 |28|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Typescript](Solution/28.Merge_Two_Sorted_Lists.ts) |Easy|
+|29|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)|[Typescript](Solution/29.Sliding_Window_Maximum.ts) |Hard|
+|30|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Typescript](Solution/30.Maximum_Depth_of_Binary_Tree.ts) |Easy|
 
