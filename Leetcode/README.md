@@ -52,4 +52,7 @@
 |30|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Typescript](Solution/30.Maximum_Depth_of_Binary_Tree.ts) |Easy|
 |31|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Typescript](Solution/31.Fizz_Buzz.ts) |Easy|
 |32|[Majority Element](https://leetcode.com/problems/majority-element)|[Typescript](Solution/32.Majority_Element.ts) |Easy|
+|33|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Typescript](Solution/33.Contains_Duplicate.ts) |Easy|
+|34|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Typescript](Solution/34.Excel_Sheet_Column_Number.ts) |Easy|
+|35|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Typescript](Solution/35.Roman_to_Integer.ts) |Easy|
 
