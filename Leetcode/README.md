@@ -9,7 +9,7 @@
     <a href="https://github.com/akasai">
       <img src="https://img.shields.io/badge/Author-akasai-informational?style=for-the-badge&logo=github">
     </a>
-    <img src="https://img.shields.io/badge/Solutions-27-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
+    <img src="https://img.shields.io/badge/Solutions-36-informational.svg?longCache=true&style=for-the-badge&logo=WebStorm">
     <img src="https://img.shields.io/badge/Languages-Typescript-informational.svg?longCache=true&style=for-the-badge&logo=Typescript">
     <img src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge&logo=Node.js">
 </p>
@@ -55,4 +55,5 @@
 |33|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Typescript](Solution/33.Contains_Duplicate.ts) |Easy|
 |34|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Typescript](Solution/34.Excel_Sheet_Column_Number.ts) |Easy|
 |35|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Typescript](Solution/35.Roman_to_Integer.ts) |Easy|
+|36|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[Typescript](Solution/35.Roman_to_Integer.ts) |Easy|
 
